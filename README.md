@@ -1,4 +1,2 @@
 # hello-world
-Just another repository
-
-I'm Pauline and would love to work with you.
+Test n8n, Figma plugins and other fancy tools.
